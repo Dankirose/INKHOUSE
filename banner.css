@@ -1,0 +1,54 @@
+.banner__gradient {
+  background-image: url(./img/Rectangle.png);
+  background-size: 100%;
+  height: 574px;
+  margin-top: 70px;
+  position: relative;
+  z-index: 2;
+}
+.banner__grad2 {
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.6335784314) 38%, rgba(0, 212, 255, 0) 75%);
+  position: absolute;
+  height: 574px;
+  width: 100%;
+  z-index: 1;
+}
+.banner__image {
+  display: flex;
+  gap: 20px;
+  width: 540px;
+}
+.banner__title {
+  color: #F4F6F5;
+  font-family: "Raleway";
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 100%;
+  margin-top: 70px;
+}
+.banner__desc {
+  color: #FFF;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 150%;
+}
+.banner__text {
+  width: 540px;
+  margin-top: 20px;
+}
+.banner__imageINC {
+  width: 80px;
+  height: 80px;
+  margin-top: 70px;
+}
+.banner__okey {
+  height: 65px;
+  padding: 20px 60px;
+  color: #2C2D35;
+  font-family: Raleway;
+  font-size: 20px;
+  font-weight: 500;
+  background-color: #EEDB6D;
+  margin-top: 60px;
+}/*# sourceMappingURL=banner.css.map */
